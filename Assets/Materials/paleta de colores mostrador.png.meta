@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dba0948f815ee7f4f9a058c01a86c718
+guid: 1a2fd93d2e6caf94d9a2969a2f8ccd7b
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -7,7 +7,7 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
-    sRGBTexture: 0
+    sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0

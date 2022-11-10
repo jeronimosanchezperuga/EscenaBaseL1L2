@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1acab0dcfc411d740bb93c212ade3180
+guid: 8d1538c28f9961041ae8a0d558c4cec5
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -99,12 +99,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Paleta
-    second: {fileID: 2100000, guid: dcc7ee680f006e749badac21dc071e6b, type: 2}
+    second: {fileID: 2100000, guid: 96a76ff41f126be4db651ffc2aaa5037, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: paleta de colores mostrador
-    second: {fileID: 2800000, guid: 6ba5daeabe6b4644e80d028ad757a285, type: 3}
+    second: {fileID: 2800000, guid: 1a2fd93d2e6caf94d9a2969a2f8ccd7b, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
@@ -124,7 +124,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -140,9 +140,9 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -160,7 +160,7 @@ ModelImporter:
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
@@ -181,10 +181,10 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 3
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
