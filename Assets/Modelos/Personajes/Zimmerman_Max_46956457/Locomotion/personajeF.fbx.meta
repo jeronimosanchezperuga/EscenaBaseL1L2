@@ -63,7 +63,22 @@ ModelImporter:
     7400000: mixamo.com
     9500000: //RootNode
     13700000: Colapsado
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 7a7cd5645a7a76142bbce758dee69a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 04094d7663495684ca0092525647fb3e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PaletaDeColores
+    second: {fileID: 2800000, guid: d9eb331ffd14c9d468da3d3b014b80ba, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
