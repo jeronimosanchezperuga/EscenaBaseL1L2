@@ -4,7 +4,22 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Character
+    100004: Character pero teton
+    100006: Empty
+    100008: Empty.001
     400000: //RootNode
+    400002: Character
+    400004: Character pero teton
+    400006: Empty
+    400008: Empty.001
+    2100000: Material
+    2300000: Character
+    2300002: Character pero teton
+    3300000: Character
+    3300002: Character pero teton
+    4300000: Character
+    4300002: Character pero teton
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
