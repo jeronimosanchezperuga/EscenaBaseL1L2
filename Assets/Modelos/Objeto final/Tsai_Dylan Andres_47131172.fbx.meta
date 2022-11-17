@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: c07fb0fe1729a304c86515089f60d769
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bola Blanca
+    100004: BolaAmarilla
+    100006: BolaAmarilla_end
+    100008: BolaAzul
+    100010: BolaAzul_end
+    100012: BolaBlanca
+    100014: BolaBlanca_end
+    100016: BolaLisaAmarilla
+    100018: BolaNegra
+    100020: BolaNegra 1
+    100022: BolaNegra_end
+    100024: BolaPurpura
+    100026: BolaPurpura 1
+    100028: BolaPurpura_end
+    100030: BolaRayadaAzul
+    100032: BolaRayadaRoja
+    100034: BolaRoja
+    100036: BolaRoja_end
+    100038: BolaVerde
+    100040: BolaVerde.001
+    100042: BolaVerde.002
+    100044: BolaVerde.003
+    100046: BolaVerde.004
+    100048: BolaVerde.005
+    100050: BolaVerde.006
+    100052: MesaDePool
+    100054: Taco
+    100056: Taco 1
+    100058: Taco_end
+    100060: //RootNode
+    400000: Armature
+    400002: Bola Blanca
+    400004: BolaAmarilla
+    400006: BolaAmarilla_end
+    400008: BolaAzul
+    400010: BolaAzul_end
+    400012: BolaBlanca
+    400014: BolaBlanca_end
+    400016: BolaLisaAmarilla
+    400018: BolaNegra
+    400020: BolaNegra 1
+    400022: BolaNegra_end
+    400024: BolaPurpura
+    400026: BolaPurpura 1
+    400028: BolaPurpura_end
+    400030: BolaRayadaAzul
+    400032: BolaRayadaRoja
+    400034: BolaRoja
+    400036: BolaRoja_end
+    400038: BolaVerde
+    400040: BolaVerde.001
+    400042: BolaVerde.002
+    400044: BolaVerde.003
+    400046: BolaVerde.004
+    400048: BolaVerde.005
+    400050: BolaVerde.006
+    400052: MesaDePool
+    400054: Taco
+    400056: Taco 1
+    400058: Taco_end
+    400060: //RootNode
+    2100000: Material
+    2100002: PaletaDegrade
+    2100004: TsaiPool
+    2100006: Madera
+    2100008: PaletaDegrade.006
+    2300000: BolaVerde
+    2300002: BolaVerde.001
+    2300004: BolaVerde.002
+    2300006: BolaVerde.003
+    2300008: BolaVerde.004
+    2300010: BolaVerde.005
+    2300012: BolaVerde.006
+    2300014: MesaDePool
+    3300000: BolaVerde
+    3300002: BolaVerde.001
+    3300004: BolaVerde.002
+    3300006: BolaVerde.003
+    3300008: BolaVerde.004
+    3300010: BolaVerde.005
+    3300012: BolaVerde.006
+    3300014: MesaDePool
+    4300000: MesaDePool
+    4300002: Taco
+    4300004: Bola Blanca
+    4300006: BolaNegra
+    4300008: BolaPurpura
+    4300010: BolaRayadaAzul
+    4300012: BolaLisaAmarilla
+    4300014: BolaRayadaRoja
+    4300016: BolaVerde
+    4300018: BolaVerde.001
+    4300020: BolaVerde.002
+    4300022: BolaVerde.003
+    4300024: BolaVerde.004
+    4300026: BolaVerde.005
+    4300028: BolaVerde.006
+    7400000: Armature|AnimacionPool
+    9500000: //RootNode
+    13700000: Bola Blanca
+    13700002: BolaLisaAmarilla
+    13700004: BolaNegra
+    13700006: BolaPurpura
+    13700008: BolaRayadaAzul
+    13700010: BolaRayadaRoja
+    13700012: Taco
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera
+    second: {fileID: 2100000, guid: 855c86ac51ee83a4f9bba710cdd9e1bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 888eac7769c8ca54ba9bcbcd13390113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaletaDegrade
+    second: {fileID: 2100000, guid: 4553facb04d25c84a904dd382fbb330b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaletaDegrade.006
+    second: {fileID: 2100000, guid: c5bfb460aec15b94a9f8644a665ae8f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TsaiPool
+    second: {fileID: 2100000, guid: e3c304c6900d956498dc8fd99ce67d86, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Group 4
+    second: {fileID: 2800000, guid: a436909e028fbfd43af8dab5eccd1b3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paleta Degrade
+    second: {fileID: 2800000, guid: 10af188b772e8be489702c523395e25e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturaParedMadera
+    second: {fileID: 2800000, guid: d66759cbb4f9b9f48a0093750a589b74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: textura-madera-roble-patron-natural-foto-muy-alta-resolucion_463999-255
+    second: {fileID: 2800000, guid: cba18f2214ef6ad4d844528a7f4e5704, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

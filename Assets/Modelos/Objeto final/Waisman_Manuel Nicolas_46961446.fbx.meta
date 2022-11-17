@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 24da0b14ac00d9c4bb549277fc4f9427
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Azul
+    100004: Azul_end
+    100006: Blanco
+    100008: Blanco_end
+    100010: Caja
+    100012: Circle
+    100014: Circle.001
+    100016: Cube
+    100018: Cube.001
+    100020: Cube.002
+    100022: Cube.003
+    100024: Cube.004
+    100026: Cube.005
+    100028: Cube.006
+    100030: Cube.007
+    100032: Cube.008
+    100034: Cube.009
+    100036: Cube.010
+    100038: Cube.012
+    100040: Cube.013
+    100042: Cube.014
+    100044: Cube.015
+    100046: Cube.016
+    100048: Cube.017
+    100050: Cube.018
+    100052: Cube.019
+    100054: Cube.020
+    100056: Cylinder.001
+    100058: Cylinder.003
+    100060: Cylinder.004
+    100062: Cylinder.005
+    100064: Moneda 1
+    100066: Moneda 1_end
+    100068: Moneda 2
+    100070: Moneda 2_end
+    100072: Paalnca izquierda
+    100074: Paalnca izquierda_end
+    100076: Palanca derecha
+    100078: Palanca derecha_end
+    100080: Rojo
+    100082: Rojo_end
+    100084: Ticket 1
+    100086: Ticket 1_end
+    100088: Ticket 2
+    100090: Ticket 2_end
+    100092: Ticket 3
+    100094: Ticket 3_end
+    100096: Ticket 4
+    100098: Ticket 4_end
+    100100: Ticket 5
+    100102: Ticket 5_end
+    100104: Ticket 6
+    100106: Ticket 6_end
+    100108: Verde
+    100110: Verde_end
+    100112: //RootNode
+    400000: Armature
+    400002: Azul
+    400004: Azul_end
+    400006: Blanco
+    400008: Blanco_end
+    400010: Caja
+    400012: Circle
+    400014: Circle.001
+    400016: Cube
+    400018: Cube.001
+    400020: Cube.002
+    400022: Cube.003
+    400024: Cube.004
+    400026: Cube.005
+    400028: Cube.006
+    400030: Cube.007
+    400032: Cube.008
+    400034: Cube.009
+    400036: Cube.010
+    400038: Cube.012
+    400040: Cube.013
+    400042: Cube.014
+    400044: Cube.015
+    400046: Cube.016
+    400048: Cube.017
+    400050: Cube.018
+    400052: Cube.019
+    400054: Cube.020
+    400056: Cylinder.001
+    400058: Cylinder.003
+    400060: Cylinder.004
+    400062: Cylinder.005
+    400064: Moneda 1
+    400066: Moneda 1_end
+    400068: Moneda 2
+    400070: Moneda 2_end
+    400072: Paalnca izquierda
+    400074: Paalnca izquierda_end
+    400076: Palanca derecha
+    400078: Palanca derecha_end
+    400080: Rojo
+    400082: Rojo_end
+    400084: Ticket 1
+    400086: Ticket 1_end
+    400088: Ticket 2
+    400090: Ticket 2_end
+    400092: Ticket 3
+    400094: Ticket 3_end
+    400096: Ticket 4
+    400098: Ticket 4_end
+    400100: Ticket 5
+    400102: Ticket 5_end
+    400104: Ticket 6
+    400106: Ticket 6_end
+    400108: Verde
+    400110: Verde_end
+    400112: //RootNode
+    2100000: Material.001
+    2100002: Material.003
+    2100004: Material.004
+    2100006: Material.002
+    2100008: Material.005
+    2100010: Material.006
+    2100012: Material.007
+    2100014: Material.008
+    2100016: Material.009
+    2300000: Caja
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cube.004
+    2300010: Cube.005
+    2300012: Cube.006
+    2300014: Cube.007
+    2300016: Cube.013
+    2300018: Cube.014
+    2300020: Cube.015
+    2300022: Cylinder.001
+    2300024: Cylinder.003
+    3300000: Caja
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cube.004
+    3300010: Cube.005
+    3300012: Cube.006
+    3300014: Cube.007
+    3300016: Cube.013
+    3300018: Cube.014
+    3300020: Cube.015
+    3300022: Cylinder.001
+    3300024: Cylinder.003
+    4300000: Cube.001
+    4300002: Cube.002
+    4300004: Cube.003
+    4300006: Cylinder.003
+    4300008: Cylinder.001
+    4300010: Cube.004
+    4300012: Cube.005
+    4300014: Cube.006
+    4300016: Cube.007
+    4300018: Cube.008
+    4300020: Cube.009
+    4300022: Cube.010
+    4300024: Caja
+    4300026: Cube.012
+    4300028: Cylinder.004
+    4300030: Cylinder.005
+    4300032: Circle
+    4300034: Cube.013
+    4300036: Cube.014
+    4300038: Circle.001
+    4300040: Cube
+    4300042: Cube.015
+    4300044: Cube.016
+    4300046: Cube.017
+    4300048: Cube.018
+    4300050: Cube.019
+    4300052: Cube.020
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Circle
+    13700002: Circle.001
+    13700004: Cube
+    13700006: Cube.008
+    13700008: Cube.009
+    13700010: Cube.010
+    13700012: Cube.012
+    13700014: Cube.016
+    13700016: Cube.017
+    13700018: Cube.018
+    13700020: Cube.019
+    13700022: Cube.020
+    13700024: Cylinder.004
+    13700026: Cylinder.005
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: fd487285d3cb13841a65f134b951d914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 15a90655a15cab741b2c013225b5401a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 528c60c0d5625774297eb813ab7a0ee4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: bcc26ea2d8845f84496773946748f1ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 9075a8b777427504597808e984038e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 72596ea5183e2384aa3ae2d747b9ed50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 02746c30e23c90c41b95eda8bb8c97a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 7f2287d632382104c87d0ba9def55186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: c840e61499ca0224f8a7409b43341675, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material de costado 2
+    second: {fileID: 2800000, guid: d74b7e5bba6b89a449d70347b0a12186, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material imagen de costado
+    second: {fileID: 2800000, guid: ddd5221a177f6bd49b994fccb06673c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material insertar moneda
+    second: {fileID: 2800000, guid: 08a562763cdb80e4c8e6fc0c812457f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material juego
+    second: {fileID: 2800000, guid: 120fbc11c29e60946969d47f4daf8517, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paleta Degrade
+    second: {fileID: 2800000, guid: 0097922228079ce45be4eb91d0402e5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: imagen arcader
+    second: {fileID: 2800000, guid: d08cf514675651b428d55bf89d36009d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: moneda
+    second: {fileID: 2800000, guid: f8682eb285f97fc46abe853ec139d2bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pacman
+    second: {fileID: 2800000, guid: 59be43d584b13ea43b38014dd010dde7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ticket neverland
+    second: {fileID: 2800000, guid: 698c215a29fbdeb48a59153eea377ba4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
