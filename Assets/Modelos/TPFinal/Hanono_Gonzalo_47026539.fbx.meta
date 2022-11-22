@@ -3,7 +3,17 @@ guid: fd751ea2fcb5c6f4db8b8fc8cc2f2326
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PaletaColores.004
+    second: {fileID: 2100000, guid: ed2b39e60249eab41ab735a775bd1de0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paleta Colores Paloma
+    second: {fileID: 2800000, guid: 6057593be28bbf64296a95a80ac4508b, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
